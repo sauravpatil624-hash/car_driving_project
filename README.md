@@ -36,7 +36,7 @@ A web-based **Car Driving Management System** developed to simplify the manageme
 4. Open **phpMyAdmin** and create a database.
 5. Import the SQL file from the `SQL File` folder.
 6. Update the database configuration in the project if required.
-7. Open the project in your browser:
+8. Open the project in your browser:
 
    `http://localhost/Car-Driving-Management-System/`
 
@@ -48,3 +48,7 @@ This project was developed as an academic web development project to gain practi
 
 **Saurav Patil**
 BCA | Web Development | PHP | MySQL
+
+project { Admin ID PASS }
+ID =  saurav123@gmail.com
+PASS = saurav123
