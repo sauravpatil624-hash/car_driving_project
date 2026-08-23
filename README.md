@@ -49,6 +49,6 @@ This project was developed as an academic web development project to gain practi
 **Saurav Patil**
 BCA | Web Development | PHP | MySQL
 
-project { Admin ID PASS }
+Project { Admin ID PASS }
 ID =  saurav123@gmail.com
 PASS = saurav123
